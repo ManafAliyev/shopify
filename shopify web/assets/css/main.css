@@ -1,0 +1,206 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    background-color: #008060;
+    color: white;
+}
+body{
+    width: 100%;
+}
+
+.shopify {
+    display: flex;
+    justify-content: center;
+}
+
+.shopify .shopifylogo {
+    font-size: 45px;
+    top: 20px;
+    position: relative;
+}
+
+.shopify .shoptittle {
+    font-size: 35px;
+    height: 80px;
+    width: 50px;
+    position: relative;
+    top: -10px;
+}
+
+.intro .introtittle h1 {
+    font-size: 57px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.intro .introtittle h3 {
+    display: flex;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    justify-content: center;
+}
+
+.intro .inputemail {
+    
+    left: 485px;
+    position: relative;
+    height: 50px;
+
+}
+
+.intro .inputemail input {
+    border-radius: 3.5px;
+    border: none;
+    width: 370px;
+    background-color: white;
+    padding: 15px;
+}
+
+.intro .button {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 880px;
+    width: 170px;
+    top: -52px;
+}
+
+.intro .button button {
+    background-color:#131416;
+    color: white;
+    height: 50px;
+    width: 170px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 5px;
+}
+.intro .button button:hover{
+    background-color: black;
+    
+}
+.intro .rules {
+    display: flex;
+    justify-content: center;
+    top: -45px;
+    font-size: 13.5px;
+    position: relative;
+}
+.img{
+    display: flex;
+    justify-content: center;
+   
+}
+.boxes {
+    display: flex;
+    justify-content: center;
+    top: 100px;
+    left: 70px;
+    position: relative;
+    
+}
+.boxes .box1{
+    width: 350px;
+    position: relative;
+    right:120px;
+}
+.boxes .box2{
+    width: 340px;
+    position: relative;
+    right: 60px;
+}
+.boxes .box3{
+    width: 310px;
+}
+.box1 .themeslogo{
+     font-size: 40px;
+}
+.box2 .productslogo{
+    font-size: 40px;
+}
+.box3 .sellinglogo{
+   font-size: 40px;
+}
+section{
+    height: 450px;
+}
+.partimg{
+    display: flex;
+    justify-content:center;
+
+}
+.ceeimg{
+    right: 100px;
+    position: relative;
+}
+.nalata{
+    position: relative;
+    right: 50px;
+}
+.kirrin{
+    position: relative;
+    right: 30px;
+}
+.tokyo{
+    position: relative;
+    right: 10px;
+}
+.meso{
+    position: relative;
+   left: 30px;
+}
+.coco{
+    position: relative;
+    left: 60px;
+}
+.brooklyn{
+    position: relative;
+    left: 80px;
+
+}
+.adoreimg{
+    position: relative;
+    left: 100px;
+}
+hr{
+    width: 1100px;
+    position: relative;
+    
+}
+.tittles .demand{
+    width: 750px;
+    bottom: 230px;
+    position: relative;
+    left: 380px;
+    font-size: 25px;
+}
+.tittles .theory{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 260px;
+    right: 35px;
+}
+.buttonsame{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 250px;
+    
+    
+}
+.buttonsame button{
+    width: 180px;
+    border-radius: 5px;
+    color: white;
+    background-color:black;
+    right: 35px;
+    position: relative;
+    height: 50px;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: none 0px;
+}
+.buttonsame button:hover{
+   background-color: #004C3F;
+}
